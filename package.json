@@ -1,0 +1,22 @@
+{
+  "name": "frogress",
+  "version": "1.0.0",
+  "description": "Task progress tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samronning/node-frogress.git"
+  },
+  "keywords": [
+    "progress"
+  ],
+  "author": "Sam Ronning",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samronning/node-frogress/issues"
+  },
+  "homepage": "https://github.com/samronning/node-frogress#readme"
+}
