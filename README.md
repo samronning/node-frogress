@@ -1,2 +1,2 @@
 ### Frogress
-The progress tracking solution for node
+Task progress tracking for node.js
